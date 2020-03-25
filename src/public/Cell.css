@@ -1,0 +1,14 @@
+.lit{
+    width: 100px !important;
+    height: 100px !important;
+    background-color: #00bcd4;
+}
+
+.nLit{
+    width: 100px;
+    height: 100px;    
+    background-color: #194b64;
+    transition: background-color 0.7s ease;
+    border-radius: 2px;
+
+}
