@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9f08a41a87104055a6d893c7cf36459c)](https://app.codacy.com/manual/vipulsnp/lights-out-react?utm_source=github.com&utm_medium=referral&utm_content=vipulsnp/lights-out-react&utm_campaign=Badge_Grade_Settings)
+
 In the project directory, you can run:
 
 ### `npm start`
